@@ -11,7 +11,7 @@ build: off  # будем использовать свой скрипт сбор
 install:
   #Запускаем SUT
   - chmod +x gradlew
-  - java -jar ./artifacts/app-mbank.jar &
+
 
 
 build_script:
